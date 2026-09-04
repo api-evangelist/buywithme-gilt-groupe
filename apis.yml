@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://buywithme.com', status: 301, note: 'declared website redirects to https://www.gilt.com/ — a different registrable domain (buywithme.com -> gilt.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/buywithme-gilt-groupe.png
 name: BuyWithMe (Gilt Groupe)
 description: 'BuyWithMe (Gilt Groupe) is a company surfaced as a portfolio company of bain-capital-ventures
